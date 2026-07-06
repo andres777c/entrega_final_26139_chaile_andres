@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Archivos solo para desarrollo local (no se suben al repo) ###
+docker-compose.yml
+postman/
